@@ -4,5 +4,6 @@ public class FirstJavaProgram {
         //Write your code here//
         System.out.println("Hello Wolrd");
         System.out.println("Jaydeep");
+        System.out.println("Singh");
     }
 }
