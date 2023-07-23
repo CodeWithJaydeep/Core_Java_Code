@@ -1,3 +1,5 @@
+package First_java_Code;
+
 public class FirstJavaProgram {
 
     public static void main(String[] args) {
@@ -7,3 +9,4 @@ public class FirstJavaProgram {
         System.out.println("Singh");
     }
 }
+

@@ -1,3 +1,5 @@
+package Scanner;
+
 import java.util.Scanner;
 
 public class ScannerDemo {
@@ -15,6 +17,8 @@ public class ScannerDemo {
         long ad= sc.nextLong();
         System.out.println("Please enter your Account number");
         long ac= sc.nextLong();
+        System.out.println("Please enter your post office pin");
+        int p=sc.nextInt();
 
 
     }
