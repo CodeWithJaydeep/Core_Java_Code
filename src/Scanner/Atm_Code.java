@@ -13,6 +13,7 @@ public class Atm_Code {
         int p=sc.nextInt();
         System.out.println("Please wait proceesing");
         System.out.println("Collect your money");
+        System.out.println("Exit");
 
 
 
