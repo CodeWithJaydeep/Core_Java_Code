@@ -12,7 +12,7 @@ public class ArrayInt {
         System.out.println(marks[4]);
 
 
-       // Using for Lopp
+       // Using for Loop
         int numbers []={1,2,3,4,5,6,7,8,9,};
         for(int var:numbers){
             System.out.println("Printing by for loop"+":"+ var);
